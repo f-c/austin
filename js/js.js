@@ -1,1 +1,1 @@
-document.write("‚±‚ñ‚É‚¿‚Í");
+document.write("i'm fine")
