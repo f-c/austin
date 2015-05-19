@@ -1,0 +1,1 @@
+document.write("‚±‚ñ‚É‚¿‚Í");
