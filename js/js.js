@@ -1,1 +1,1 @@
-document.write("i'm fine")
+document.getElementsByTagName("h1").style.color="#ccc";
